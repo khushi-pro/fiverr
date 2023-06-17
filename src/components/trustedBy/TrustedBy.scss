@@ -1,0 +1,16 @@
+.trustedBy{
+    .container{
+    background-color: rgb(250,250,250);
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+    span{
+        font-size: 14px;
+        color: #B5B6BA;
+        font-weight: 500;
+    }
+}
+}
