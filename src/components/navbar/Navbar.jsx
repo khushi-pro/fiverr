@@ -30,7 +30,7 @@ const Navbar = () => {
     <div className={active || pathname !=="/" ? 'navbar active' : 'navbar'}>
       <div className="container">
         <div className="logo">
-          <Link to="/" className="link"> 
+          <Link to="/" className="link">Home</Link>
           <span className="text">fiverr</span>
           </Link>
           <span className="dot">.</span>
